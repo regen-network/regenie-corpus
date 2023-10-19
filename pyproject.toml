@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "regenie_corpus"}]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.11"
 requests = "^2.31.0"
 beautifulsoup4 = "^4.12.2"
 lxml = "^4.9.3"
