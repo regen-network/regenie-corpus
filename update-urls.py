@@ -23,6 +23,6 @@ def update_csv(sitemap_url, filename):
     write_urls_to_csv(urls, filename)
 
 
-update_csv('https://www.regen.network/sitemap.xml', 'www.csv')
+update_csv('https://docs.regen.network/sitemap.xml', 'docs.csv')
 update_csv('https://registry.regen.network/sitemap.xml', 'registry.csv')
 update_csv('https://guides.regen.network/sitemap.xml', 'guides.csv')
