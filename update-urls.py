@@ -48,3 +48,4 @@ update_sitemap_csv('guides.regen.network')
 
 update_github_download_csv('registry-credit-class-pdfs', 'regen-network', 'regen-registry-credit-classes', '.gitbook/assets')
 update_github_download_csv('registry-handbook-pdfs', 'regen-network', 'regen-registry-handbook', '.gitbook/assets')
+update_github_download_csv('registry-methodology-pdfs', 'regen-network', 'regen-registry-methodology-library', '.gitbook/assets')
